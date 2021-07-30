@@ -1,0 +1,19 @@
+{
+  "server.port": 8501,
+  "server.servlet.context-path": "/campus",
+  "logging.file": "campus/campus.txt",
+  "logging.level.com.qdtdhl": "debug",
+
+
+  "spring.datasource.druid.url": "jdbc:postgresql://127.0.0.1:5432/geodb",
+  "spring.datasource.druid.username": "postgres",
+  "spring.datasource.druid.password": "Skiyuhwe565@hhh@",
+  "spring.datasource.druid.driver-class-name": "org.postgresql.Driver",
+  "spring.datasource.druid.initial-size": 5,
+  "spring.datasource.druid.max-active": 20,
+  "spring.datasource.druid.min-idle": 5,
+  "mybatis-plus.global-config.id-type": 3
+
+
+
+}

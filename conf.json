@@ -1,0 +1,9 @@
+{
+  "imagesUrl": "http://127.0.0.1:8081",
+
+  "endpoint": "http://127.0.0.1:9000",
+  "accessKey": "yanying112233445",
+  "secretKey": "yanying112233445",
+  "url": "http://127.0.0.1:9000"
+
+}
